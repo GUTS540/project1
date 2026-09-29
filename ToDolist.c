@@ -2,7 +2,7 @@
 #include<string.h>
 int main (){
     char str1[100];
-    int i,n=0;
+    int i,n=0,p;
     printf("Enter ToDO list\n");
     fgets(str1,100,stdin);
     
